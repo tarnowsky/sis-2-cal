@@ -151,7 +151,7 @@ The authors assume no responsibility for any misuse of this tool or inaccuracies
 
 ## License
 
-This project is provided for educational purposes. Use at your own discretion.
+This project is under PolyForm Noncommercial License.
 
 ---
 
